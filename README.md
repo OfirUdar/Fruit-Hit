@@ -38,6 +38,9 @@ Contact us at: udar.apps@Gmail.com.
 Have fun,
 Udar Games.
 
+# Download it on Google Play
+https://play.google.com/store/apps/details?id=com.UdarGames.FruitHit&hl=iw&gl=US
+
 # Images
 ![7](https://user-images.githubusercontent.com/76158235/114726105-baf73700-9d45-11eb-95f9-6c70147edd7a.png)
 ![8](https://user-images.githubusercontent.com/76158235/114726112-bcc0fa80-9d45-11eb-88a5-020ed1146b96.png)
