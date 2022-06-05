@@ -26,17 +26,13 @@ So can you beat your friends's score? Can you achieve all the knives?
 Do you think you can be the best player? Download now and share with your friends !
 
 
-BECOME FANS?
-Contact us:
-Follow us on Instagram: https://www.instagram.com/udargames/ .
-
+BECOME FANS? Contact us: Follow us on Instagram: https://www.instagram.com/__udar/.
 
 Help us improve our games and don't doubt to contact us! We love your feedback.
 
 Contact us at: udar.apps@Gmail.com.
 
-Have fun,
-Udar Games.
+Have fun, Udar Games.
 
 # Download it on Google Play
 https://play.google.com/store/apps/details?id=com.UdarGames.FruitHit&hl=iw&gl=US
